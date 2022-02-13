@@ -14,5 +14,7 @@
     <packaging>jar</packaging>
     <name>hellomaven</name>
 
-
+    <build>
+        <finalName>MavenWebProject</finalName>
+            </build>
 </project>
